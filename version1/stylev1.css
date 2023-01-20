@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Saira&display=swap');
+
+html {
+   --primary1: #00DCB9;
+   --primary2: #D7EBEB;
+
+   --secondary1: #0A192D;
+   --secondary2: #EDF2F2;
+
+   --saira: 'Saira', sans-serif;
+   --mulish: 'Mulish', sans-serif;
+
+   font-size: 20px;
+}
+
+section {
+   text-align: center;
+}
+
+h1 {
+   font-family: var(--saira);
+   font-size: 2.5em;
+   color: var(--primary1);
+}
+
+h2 {
+   font-family: var(--saira);
+}
+
+h3 {
+   font-family: var(--saira);
+   color: var(--secondary1);
+}
+
+p {
+   font-family: var(--mulish);
+   color: var(--secondary1);
+
+   font-size: 1rem;
+}
+
+ul,
+ol {
+   font-family: var(--mulish);
+   color: var(--secondary1);
+
+   font-size: 1rem;
+}
+
+a {
+   color: var(--primary1);
+}
+
+button {
+   font-family: var(--saira);
+   background-color: var(--primary1);
+
+   border-style: none;
+   padding: 10px;
+
+   font-size: 1rem;
+}
+
+img {
+   max-height: 140px;
+   max-width: 200px;
+}
+
+label {
+   font-size: 1.5em;
+}
+
+input {
+   font-size: 1.5em;
+}
+
+.waarom-avocado-media {
+   list-style: none;
+}
+
+.sfeerimpressie {
+   display: inline-flex;
+}
+
+/* .sticky {
+   position: fixed;
+   top: 0;
+   width: 100%;
+
+   font-size: 0.7rem;
+
+   display: flex;
+   justify-content: flex-end;
+   flex-direction: row-reverse;
+   align-items: center;
+
+   transition: 1s;
+}
+
+#sticky-header {
+   transition: 1s;
+} */
