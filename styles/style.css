@@ -157,10 +157,36 @@ button {
    padding-top: 3em;
 }
 
+form {
+   padding: 0 1rem;
+}
+
 label,
 input {
-   font-size: 1.4em;
    width: -webkit-fill-available;
+}
+
+label {
+   font-size: 18px;
+   font-family: var(--mulish);
+}
+
+input {
+   font-size: 1.4em;
+   margin-top: 0.25rem;
+   margin-bottom: 1.75rem;
+   background-color: #e8e8e8;
+   border: 1px solid #fafafa;
+}
+
+.submit-button {
+   background-color: var(--secondary3);
+   color: var(--secondary2);
+   width: 100%;
+}
+
+.bigger-input {
+   font-size: 4.4em;
 }
 
 .sfeerimpressie {
@@ -172,6 +198,19 @@ input {
    animation-timing-function: cubic-bezier(0.28, 0.84, 0.42, 1);
    animation-duration: 0.5s;
    animation-iteration-count: 1;
+}
+
+.smaller-h1 {
+   font-size: 2.5rem;
+}
+
+.smaller-h2,
+.bigger-p {
+   font-size: 1.1rem;
+}
+
+.confirmation {
+   text-align: center;
 }
 
 @keyframes juice {
@@ -205,19 +244,6 @@ input {
    } */
 }
 
-/* tablet */
-@media only screen and (min-width: 38.4rem) {
-   /* body {
-     background: yellow;
-   } */
-
-   /* .grid-container {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: auto;
-   } */
-}
-
 /* laptop */
 @media only screen and (min-width: 51.2rem) {
    /* body {
@@ -229,6 +255,11 @@ input {
       grid-template-columns: 1fr 1fr 1fr;
       grid-template-rows: auto;
    } */
+
+   /* section {
+      max-width: 700px;
+      margin: 0px 269.6px;
+   } */
 }
 
 .sticky {
@@ -239,7 +270,7 @@ input {
    height: 5rem;
    width: 100%;
 
-   font-size: 0.4rem; 
+   font-size: 0.4rem;
 
    display: flex;
 
