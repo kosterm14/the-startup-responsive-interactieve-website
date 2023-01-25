@@ -12,12 +12,12 @@ function stick() {
   }
 }
 
-let the = document.querySelector('button')
-the.addEventListener('click', juiceHandler)
-the.addEventListener('animationend', juiceHandler)
+let animation = document.querySelector('button')
+animation.addEventListener('click', juiceHandler)
+animation.addEventListener('animationend', juiceHandler)
 
 function juiceHandler() {
-  the.classList.toggle('juice')
+  animation.classList.toggle('juice');
 }
 
 function delay (URL) {

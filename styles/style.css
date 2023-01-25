@@ -40,16 +40,12 @@ p,
 b {
    font-family: var(--mulish);
    color: var(--secondary1);
-
-   /* padding: 0 20px; */
 }
 
 h1 {
    font-size: 2.5em;
    line-height: 2.9rem;
    letter-spacing: 0px;
-
-   /* margin: 20px 0px; */
    margin: 1.8rem 0.9rem;
 }
 
@@ -153,6 +149,10 @@ button {
    max-width: 10rem;
 }
 
+.laptop-only {
+   display: none;
+}
+
 .logo {
    padding-top: 3em;
 }
@@ -190,7 +190,7 @@ input {
 }
 
 .sfeerimpressie {
-   display: inline-flex;
+   display: flex;
 }
 
 .juice {
@@ -233,51 +233,58 @@ input {
 
 /* mobile */
 @media only screen and (max-width: 38.4rem) {
-   /* body {
-     background: green;
-   } */
+   .sticky {
+      position: fixed;
+      top: -1.35rem;
+      left: 0px;
 
-   /* .grid-container {
-      display: grid;
-      grid-template-columns: 1fr;
-      grid-template-rows: auto;
-   } */
+      height: 5rem;
+      width: 100%;
+
+      font-size: 0.4rem;
+
+      display: flex;
+
+      transition: 0.7s;
+
+      background-color: var(--primary1);
+      border-bottom: 4mm ridge var(--primary1);
+   }
 }
 
 /* laptop */
 @media only screen and (min-width: 51.2rem) {
-   /* body {
-     background: red;
-   } */
+   section {
+      max-width: 35rem;
+      margin: auto;
+   }
 
-   /* .grid-container {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-template-rows: auto;
-   } */
+   .img-box {
+      padding: 4rem;
+   }
 
-   /* section {
-      max-width: 700px;
-      margin: 0px 269.6px;
-   } */
-}
+   .decoration {
+      flex-wrap: nowrap;
+   }
 
-.sticky {
-   position: fixed;
-   top: -1.35rem;
-   left: 0px;
+   .sfeerimpressie img {
+      max-height: 21rem;
+      max-width: 30rem;
+   }
 
-   height: 5rem;
-   width: 100%;
+   .sfeerimpressie {
+      width: 100%;
+      justify-content: center;
+      padding-bottom: 2rem;
+   }
 
-   font-size: 0.4rem;
+   .laptop-only {
+      display: inline;
+   }
 
-   display: flex;
-
-   transition: 0.7s;
-
-   background-color: var(--primary1);
-   border-bottom: 4mm ridge var(--primary1);
+   form {
+      padding: 0 20rem;
+   }
 }
 
 #sticky-header {
