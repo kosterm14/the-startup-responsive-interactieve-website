@@ -2,10 +2,15 @@
 
 ## Inhoudsopgave
 [Screenshots](https://github.com/kosterm14/the-startup-responsive-interactieve-website#screenshots)
+
 [Opdrachtgever](https://github.com/kosterm14/the-startup-responsive-interactieve-website#opdrachtgever)
+
 [Design challenge](https://github.com/kosterm14/the-startup-responsive-interactieve-website#design-challenge)
+
 [Gebruik van de website](https://github.com/kosterm14/the-startup-responsive-interactieve-website#gebruik-van-de-website)
+
 [Checklist](https://github.com/kosterm14/the-startup-responsive-interactieve-website#checklist)
+
 [Licentie](https://github.com/kosterm14/the-startup-responsive-interactieve-website#licentie)
 
 ## Screenshots
