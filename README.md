@@ -1,11 +1,16 @@
 # Vacature-detailpagina Avocado media
 
+## Inhoudsopgave
+[Screenshots](https://github.com/kosterm14/the-startup-responsive-interactieve-website#screenshots)
+[Opdrachtgever](https://github.com/kosterm14/the-startup-responsive-interactieve-website#opdrachtgever)
+[Design challenge](https://github.com/kosterm14/the-startup-responsive-interactieve-website#design-challenge)
+[Gebruik van de website](https://github.com/kosterm14/the-startup-responsive-interactieve-website#gebruik-van-de-website)
+[Checklist](https://github.com/kosterm14/the-startup-responsive-interactieve-website#checklist)
+[Licentie](https://github.com/kosterm14/the-startup-responsive-interactieve-website#licentie)
+
 ## Screenshots
 <img src= "https://user-images.githubusercontent.com/61830362/214708559-9d9a6aa1-f07d-4eeb-ad8d-f8a12b2b72b4.png" width= 150px> <img src= "https://user-images.githubusercontent.com/61830362/214708650-b5c79d53-a547-433d-b852-4ad4db96d496.png" width= 300px> 
 <img src= "https://user-images.githubusercontent.com/61830362/214708911-404f39d8-f27b-4551-9df3-0ece23e7e64a.png" width= 300px> <img src= "https://user-images.githubusercontent.com/61830362/214708952-203c0e75-84f5-492b-80b4-505d869581ea.png" width= 200px>
-
-## Inhoudsopgave
-(coming soon)
 
 ## Opdrachtgever
 Amsterdamse digital agency voor strategie, design en development Avocado Media.
