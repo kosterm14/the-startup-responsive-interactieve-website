@@ -28,13 +28,13 @@ De opdrachtgever is op zoek naar een nieuwe developer en heeft daar momenteel ee
 
 ## Checklist
 Deze opdracht is done als:
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
-- [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
-- [ ] Je toont aan dat je in de ontwerpfase verschillende methoden en technieken hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
-- [ ] Je toont aan dat je in de bouwfase verschillende methoden en technieken hebt ingezet om het ontwerp te realiseren
-- [ ] Je toont aan dat je in de integratiefase verschillende methoden en technieken hebt ingezet om je website live te zetten
-- [ ] Je toont aan dat je in de testfase verschillende methoden en technieken hebt ingezet om het ontwerp te testen en verbeteren
-- [ ] De website staat op Github en heeft een live url
+- [x] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je werk gedocumenteerd in de Readme en Wiki
+- [x] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
+- [x] Je toont aan dat je in de ontwerpfase verschillende methoden en technieken hebt ingezet die ervoor zorgen dat je precies weet wat je moet bouwen
+- [x] Je toont aan dat je in de bouwfase verschillende methoden en technieken hebt ingezet om het ontwerp te realiseren
+- [x] Je toont aan dat je in de integratiefase verschillende methoden en technieken hebt ingezet om je website live te zetten
+- [x] Je toont aan dat je in de testfase verschillende methoden en technieken hebt ingezet om het ontwerp te testen en verbeteren
+- [x] De website staat op Github en heeft een live url
 
 ## Licentie
 
